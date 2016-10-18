@@ -1,4 +1,4 @@
 <?php
 
-print "god is a girl";
+print "god is girls";
 ?>
